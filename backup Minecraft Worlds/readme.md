@@ -1,0 +1,2 @@
+# Backup Minecraft Worlds
+Este script realiza una copia de seguridad automática de todos los mundos de Minecraft Bedrock Edition en Windows, comprimiéndolos en archivos .mcworld y guardando un registro de la operación.
